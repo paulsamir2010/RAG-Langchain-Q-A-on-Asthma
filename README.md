@@ -80,7 +80,7 @@ Below is the evaluation result of the QA system based on the implemented **RAG E
 
 ** Correctness , Relevance , Context_Recall  , Context_Precision
 
-![RAG Evaluation Results](path/to/your/image.jpeg)
+![RAG Evaluation Results](RAG_Evaluation_Score.jpg)
 
 ---
 
