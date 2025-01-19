@@ -1,4 +1,4 @@
-# RAG-Langchain-Q-A-on-Asthma
+# RAG-Langchain-QA-on-Asthma
 RAG Q&amp;A on Asthma - built with Langchain framework, with Guards rails and with RAG Evaluation. Submission as part of capstone project - PGD Data Science &amp; AI Program at SETU School
 
 # 🫁 Asthma Disease QA System (RAG-based)
@@ -10,7 +10,7 @@ This repository contains an implementation of a **Question Answering (QA) system
 ---
 
 ## 🚀 Objective
-The primary objective of this project is to **build a QA RAG system** for Asthma-related information using reliable sources and state-of-the-art frameworks.
+The primary objective of this project is to **Build a QA RAG system** for Asthma-related information using reliable sources and state-of-the-art frameworks.
 
 ---
 
@@ -56,14 +56,14 @@ The primary objective of this project is to **build a QA RAG system** for Asthma
 
 ## 📂 Files in the Repository
 
-1. **Backend code with RAG Evaluation (`RAG_Evaluation.ipynb`)**
-   - Implements the **RGAS** framework to measure:
+1. **Backend code with RAG Evaluation (`Evaluating RAG System on Asthma.ipynb`)**
+   - Implements the **RAGAS** framework to measure:
      - **Precision**
      - **Recall**
      - **Correctness**
      - **Relevancy**
 
-2. **Streamlit App Integration (`app.py`)**
+2. **Backend code & Streamlit UI App Integration (`app.py`)**
    - Combines the backend logic with the frontend.
    - Implements the following **Guardrails**:
      - **PII Guardrails**: Custom checks for **email** and **phone numbers**.
