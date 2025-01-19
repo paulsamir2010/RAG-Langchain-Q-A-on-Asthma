@@ -65,9 +65,9 @@ The primary objective of this project is to **Build a QA RAG system** for Asthma
 
 2. **Backend code & Streamlit UI App Integration (`app.py`)**
    - Combines the backend logic with the frontend.
-   - Implements the following **Guardrails**:
+   - Implements the 3 following **Guardrails**:
      - **PII Guardrails**: Custom checks for **email** and **phone numbers**.
-     - **Toxicity Check**: Leveraging the **Guardrails.ai framework**.
+     - **Other words related to other Diseases to avoid**: Custom Logic.
 
 3. **Streamlit App Execution (`run_Streamlit_app.ipynb`)**
    - Python code to launch the **Streamlit** application.
@@ -77,6 +77,8 @@ The primary objective of this project is to **Build a QA RAG system** for Asthma
 ## 📊 RAG Evaluation Results
 
 Below is the evaluation result of the QA system based on the implemented **RAG Evaluation Framework**:  
+
+** Correctness , Relevance , Context_Recall  , Context_Precision
 
 ![RAG Evaluation Results](path/to/your/image.jpeg)
 
