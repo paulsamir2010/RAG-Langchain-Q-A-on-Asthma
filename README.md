@@ -43,7 +43,7 @@ The primary objective of this project is to **Build a QA RAG system** for Asthma
 1. **Basic Retriever**: Cosine similarity-based retriever using **ChromaDB** in LangChain.  
 2. **Relevance Reranker**: **BAAI/bge-reranker-large** for improved relevancy.
 
-![Cosine Similiarity PLUS Revevance](fnl_text.jpg)
+![Cosine Similiarity PLUS Revevance](Cosine_PLUS_Relevance_Retriever.jpg)
 
 ### **Language Model (LLM)**
 - **Provider**: OpenAI  
