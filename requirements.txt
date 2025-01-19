@@ -1,0 +1,15 @@
+langchain==0.3.11
+langchain-openai==0.2.12
+langchain-community==0.3.11
+langchain-chroma==0.1.4
+sentence-transformers==2.7.0
+ragas 
+langchain-experimental
+openai
+nstructured 
+selenium 
+textstat 
+tiktoken
+pyngrok==7.1.5
+streamlit==1.32.2
+psutil
