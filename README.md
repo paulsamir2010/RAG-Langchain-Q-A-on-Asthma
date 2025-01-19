@@ -1,5 +1,5 @@
 # RAG-Langchain-QA-on-Asthma
-RAG Q&amp;A on Asthma - built with Langchain framework, with Guards rails and with RAG Evaluation. Submission as part of capstone project - PGD Data Science &amp; AI Program at SETU School
+RAG Q&amp;A on Asthma - built with Langchain framework, with Guards rails and with RAG Evaluation. Submission as part of capstone project - **PGD Data Science &amp; AI Program** at **SETU School**
 
 # 🫁 Asthma Disease QA System (RAG-based)
 
