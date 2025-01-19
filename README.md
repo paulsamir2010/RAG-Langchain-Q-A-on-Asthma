@@ -87,5 +87,10 @@ Below is the evaluation result of the QA system based on the implemented **RAG E
 
 ---
 
+## 📂 Video file in Google Drive - has app demo, github walkthrough and code walkthrough
+
+ [Video Link](https://drive.google.com/file/d/12AL-T2uwgVjCCM9wnphCkgWz9P0rdnW8/view?usp=sharing)
+ 
+
 
 ---
